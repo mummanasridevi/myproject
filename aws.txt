@@ -1,0 +1,2 @@
+there are 14 regions in aws
+each and every region has availability zones
